@@ -4,7 +4,7 @@ const app=express();
 app.use(cors());
 
 app.get('/',(req, res)=>{
-    res.send('Server is running.....');
+    res.send('Server is running on the vercel.....');
 })
 const chefData=require("./data.json");
 const port=5000;
