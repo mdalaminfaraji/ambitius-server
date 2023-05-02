@@ -1,0 +1,280 @@
+[
+    {
+      "id": 1,
+      "chef_name": "Giada De Laurentiis",
+      "years_of_experience": 20,
+      "num_of_recipes": 500,
+      "likes": 1000000,
+      "chef_picture": "https://example.com/giada.jpg",
+      "bio": "Giada De Laurentiis is an Italian-American chef, television personality, and author. She is the host of several Food Network television programs, including Giada at Home. Giada has published several cookbooks and is known for her simple yet elegant approach to Italian cuisine.",
+      "recipes":[ 
+       {    
+            "recipe_name": "Pesto Pasta",
+            "recipes_photo":"https://www.eatwell101.com/wp-content/uploads/2022/03/creamy-pesto-pasta-recipe-2.jpg" ,   
+            "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese", "olive oil"],
+           "cooking_method": "1. Cook pasta according to package instructions. 2. Blend together basil, garlic, pine nuts, parmesan cheese, and olive oil in a food processor until smooth. 3. Toss cooked pasta with pesto sauce and serve hot.",
+          "rating": 4.5
+        },
+    {
+      "recipe_name": "Grilled Chicken",
+      "recipes_photo":"https://leitesculinaria.com/wp-content/uploads/2015/06/whole-grilled-chicken-fp.jpg",
+      "ingredients": ["chicken breasts", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
+      "cooking_method": "1. Preheat grill to medium-high heat. 2. Combine olive oil, lemon juice, garlic, salt, and pepper in a small bowl. 3. Brush chicken breasts with marinade and place on grill. 4. Cook for 6-8 minutes on each side, or until chicken is cooked through. 5. Serve hot.",
+      "rating": 4.7
+    },
+    {
+      "recipe_name": "Roasted Vegetables",
+      "recipes_photo":"https://www.recipetineats.com/wp-content/uploads/2021/07/Roasted-Vegetables_55-SQ.jpg",
+      "ingredients": ["carrots", "potatoes", "bell peppers", "red onions", "olive oil", "thyme"],
+      "cooking_method": "1. Preheat oven to 400°F. 2. Cut vegetables into bite-sized pieces and place on a baking sheet. 3. Drizzle with olive oil and sprinkle with thyme. 4. Roast in the oven for 30-40 minutes, or until vegetables are tender and golden brown. 5. Serve hot.",
+      "rating": 4.2
+    },
+    {
+      "recipe_name": "Beef Stroganoff",
+      "recipes_photo":"https://static.onecms.io/wp-content/uploads/sites/43/2022/09/09/25202beef-stroganoff-iii-ddmfs-3x4-233.jpg",
+      "ingredients": ["beef sirloin", "butter", "onions", "mushrooms", "sour cream", "egg noodles"],
+      "cooking_method": "1. Cook egg noodles according to package instructions. 2. Cut beef sirloin into thin strips. 3. Melt butter in a large skillet over medium heat. 4. Add onions and mushrooms and sauté until tender. 5. Add beef strips and cook until browned on all sides. 6. Stir in sour cream and cook for another 5 minutes. 7. Serve beef stroganoff over cooked egg noodles.",
+      "rating": 4.8
+    },
+    {
+      "recipe_name": "Tomato Soup",
+      "recipes_photo":"https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup-recipe.jpg",
+      "ingredients": ["tomatoes", "onion", "garlic", "vegetable broth", "cream", "basil"],
+      "cooking_method": "1. Preheat oven to 375°F. 2. Cut tomatoes and onion into wedges and place on a baking sheet. 3. Drizzle with olive oil and season with salt and pepper. 4. Roast in the oven for 30-40 minutes, or until tomatoes and onions are tender and lightly browned. 5. In a large pot, sauté garlic until fragrant. 6. Add roasted tomatoes and onions to the pot, along with vegetable broth. 7. Simmer for 10-15 minutes. 8. Blend soup mixture in a food processor until smooth. 9. Stir in cream and basil. 10. Serve hot.",
+      "rating": 4.4
+    }
+]
+  
+    },
+    {
+      "id": 2,
+      "chef_name": "Gordon Ramsay",
+      "years_of_experience": 30,
+      "num_of_recipes": 600,
+      "likes": 2000000,
+      "chef_picture": "https://example.com/gordon.jpg",
+      "bio": "Gordon Ramsay is a British chef, restaurateur, and television personality. He is known for his fiery personality and has hosted several reality TV shows, including Hell's Kitchen and MasterChef. Ramsay has received numerous Michelin stars for his restaurants and is considered one of the best chefs in the world.",
+      "recipes":[ 
+       {    
+            "recipe_name": "Pesto Pasta",
+            "recipes_photo":"https://www.eatwell101.com/wp-content/uploads/2022/03/creamy-pesto-pasta-recipe-2.jpg" ,   
+            "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese", "olive oil"],
+           "cooking_method": "1. Cook pasta according to package instructions. 2. Blend together basil, garlic, pine nuts, parmesan cheese, and olive oil in a food processor until smooth. 3. Toss cooked pasta with pesto sauce and serve hot.",
+          "rating": 4.5
+        },
+    {
+      "recipe_name": "Grilled Chicken",
+      "recipes_photo":"https://leitesculinaria.com/wp-content/uploads/2015/06/whole-grilled-chicken-fp.jpg",
+      "ingredients": ["chicken breasts", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
+      "cooking_method": "1. Preheat grill to medium-high heat. 2. Combine olive oil, lemon juice, garlic, salt, and pepper in a small bowl. 3. Brush chicken breasts with marinade and place on grill. 4. Cook for 6-8 minutes on each side, or until chicken is cooked through. 5. Serve hot.",
+      "rating": 4.7
+    },
+    {
+      "recipe_name": "Roasted Vegetables",
+      "recipes_photo":"https://www.recipetineats.com/wp-content/uploads/2021/07/Roasted-Vegetables_55-SQ.jpg",
+      "ingredients": ["carrots", "potatoes", "bell peppers", "red onions", "olive oil", "thyme"],
+      "cooking_method": "1. Preheat oven to 400°F. 2. Cut vegetables into bite-sized pieces and place on a baking sheet. 3. Drizzle with olive oil and sprinkle with thyme. 4. Roast in the oven for 30-40 minutes, or until vegetables are tender and golden brown. 5. Serve hot.",
+      "rating": 4.2
+    },
+    {
+      "recipe_name": "Beef Stroganoff",
+      "recipes_photo":"https://static.onecms.io/wp-content/uploads/sites/43/2022/09/09/25202beef-stroganoff-iii-ddmfs-3x4-233.jpg",
+      "ingredients": ["beef sirloin", "butter", "onions", "mushrooms", "sour cream", "egg noodles"],
+      "cooking_method": "1. Cook egg noodles according to package instructions. 2. Cut beef sirloin into thin strips. 3. Melt butter in a large skillet over medium heat. 4. Add onions and mushrooms and sauté until tender. 5. Add beef strips and cook until browned on all sides. 6. Stir in sour cream and cook for another 5 minutes. 7. Serve beef stroganoff over cooked egg noodles.",
+      "rating": 4.8
+    },
+    {
+      "recipe_name": "Tomato Soup",
+      "recipes_photo":"https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup-recipe.jpg",
+      "ingredients": ["tomatoes", "onion", "garlic", "vegetable broth", "cream", "basil"],
+      "cooking_method": "1. Preheat oven to 375°F. 2. Cut tomatoes and onion into wedges and place on a baking sheet. 3. Drizzle with olive oil and season with salt and pepper. 4. Roast in the oven for 30-40 minutes, or until tomatoes and onions are tender and lightly browned. 5. In a large pot, sauté garlic until fragrant. 6. Add roasted tomatoes and onions to the pot, along with vegetable broth. 7. Simmer for 10-15 minutes. 8. Blend soup mixture in a food processor until smooth. 9. Stir in cream and basil. 10. Serve hot.",
+      "rating": 4.4
+    }
+]
+    },
+    {
+      "id": 3,
+      "chef_name": "Ina Garten",
+      "years_of_experience": 25,
+      "num_of_recipes": 400,
+      "likes": 800000,
+      "chef_picture": "https://example.com/ina.jpg",
+      "bio": "Ina Garten is an American chef, author, and television personality. She is best known for her Food Network show Barefoot Contessa, which focuses on simple and elegant recipes. Ina has written several cookbooks and is known for her use of fresh, high-quality ingredients.",
+      "recipes":[ 
+       {    
+            "recipe_name": "Pesto Pasta",
+            "recipes_photo":"https://www.eatwell101.com/wp-content/uploads/2022/03/creamy-pesto-pasta-recipe-2.jpg" ,   
+            "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese", "olive oil"],
+           "cooking_method": "1. Cook pasta according to package instructions. 2. Blend together basil, garlic, pine nuts, parmesan cheese, and olive oil in a food processor until smooth. 3. Toss cooked pasta with pesto sauce and serve hot.",
+          "rating": 4.5
+        },
+    {
+      "recipe_name": "Grilled Chicken",
+      "recipes_photo":"https://leitesculinaria.com/wp-content/uploads/2015/06/whole-grilled-chicken-fp.jpg",
+      "ingredients": ["chicken breasts", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
+      "cooking_method": "1. Preheat grill to medium-high heat. 2. Combine olive oil, lemon juice, garlic, salt, and pepper in a small bowl. 3. Brush chicken breasts with marinade and place on grill. 4. Cook for 6-8 minutes on each side, or until chicken is cooked through. 5. Serve hot.",
+      "rating": 4.7
+    },
+    {
+      "recipe_name": "Roasted Vegetables",
+      "recipes_photo":"https://www.recipetineats.com/wp-content/uploads/2021/07/Roasted-Vegetables_55-SQ.jpg",
+      "ingredients": ["carrots", "potatoes", "bell peppers", "red onions", "olive oil", "thyme"],
+      "cooking_method": "1. Preheat oven to 400°F. 2. Cut vegetables into bite-sized pieces and place on a baking sheet. 3. Drizzle with olive oil and sprinkle with thyme. 4. Roast in the oven for 30-40 minutes, or until vegetables are tender and golden brown. 5. Serve hot.",
+      "rating": 4.2
+    },
+    {
+      "recipe_name": "Beef Stroganoff",
+      "recipes_photo":"https://static.onecms.io/wp-content/uploads/sites/43/2022/09/09/25202beef-stroganoff-iii-ddmfs-3x4-233.jpg",
+      "ingredients": ["beef sirloin", "butter", "onions", "mushrooms", "sour cream", "egg noodles"],
+      "cooking_method": "1. Cook egg noodles according to package instructions. 2. Cut beef sirloin into thin strips. 3. Melt butter in a large skillet over medium heat. 4. Add onions and mushrooms and sauté until tender. 5. Add beef strips and cook until browned on all sides. 6. Stir in sour cream and cook for another 5 minutes. 7. Serve beef stroganoff over cooked egg noodles.",
+      "rating": 4.8
+    },
+    {
+      "recipe_name": "Tomato Soup",
+      "recipes_photo":"https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup-recipe.jpg",
+      "ingredients": ["tomatoes", "onion", "garlic", "vegetable broth", "cream", "basil"],
+      "cooking_method": "1. Preheat oven to 375°F. 2. Cut tomatoes and onion into wedges and place on a baking sheet. 3. Drizzle with olive oil and season with salt and pepper. 4. Roast in the oven for 30-40 minutes, or until tomatoes and onions are tender and lightly browned. 5. In a large pot, sauté garlic until fragrant. 6. Add roasted tomatoes and onions to the pot, along with vegetable broth. 7. Simmer for 10-15 minutes. 8. Blend soup mixture in a food processor until smooth. 9. Stir in cream and basil. 10. Serve hot.",
+      "rating": 4.4
+    }
+]
+    },
+    {
+      "id": 4,
+      "chef_name": "Jamie Oliver",
+      "years_of_experience": 25,
+      "num_of_recipes": 700,
+      "likes": 1500000,
+      "chef_picture": "https://example.com/jamie.jpg",
+      "bio": "Jamie Oliver is a British chef, restaurateur, and television personality. He is known for his focus on healthy, simple, and affordable food. Jamie has hosted several TV shows, including The Naked Chef and Jamie Oliver's Food Revolution. He is also a bestselling cookbook author and has campaigned for better food education in schools.",
+      "recipes":[ 
+       {    
+            "recipe_name": "Pesto Pasta",
+            "recipes_photo":"https://www.eatwell101.com/wp-content/uploads/2022/03/creamy-pesto-pasta-recipe-2.jpg" ,   
+            "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese", "olive oil"],
+           "cooking_method": "1. Cook pasta according to package instructions. 2. Blend together basil, garlic, pine nuts, parmesan cheese, and olive oil in a food processor until smooth. 3. Toss cooked pasta with pesto sauce and serve hot.",
+          "rating": 4.5
+        },
+    {
+      "recipe_name": "Grilled Chicken",
+      "recipes_photo":"https://leitesculinaria.com/wp-content/uploads/2015/06/whole-grilled-chicken-fp.jpg",
+      "ingredients": ["chicken breasts", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
+      "cooking_method": "1. Preheat grill to medium-high heat. 2. Combine olive oil, lemon juice, garlic, salt, and pepper in a small bowl. 3. Brush chicken breasts with marinade and place on grill. 4. Cook for 6-8 minutes on each side, or until chicken is cooked through. 5. Serve hot.",
+      "rating": 4.7
+    },
+    {
+      "recipe_name": "Roasted Vegetables",
+      "recipes_photo":"https://www.recipetineats.com/wp-content/uploads/2021/07/Roasted-Vegetables_55-SQ.jpg",
+      "ingredients": ["carrots", "potatoes", "bell peppers", "red onions", "olive oil", "thyme"],
+      "cooking_method": "1. Preheat oven to 400°F. 2. Cut vegetables into bite-sized pieces and place on a baking sheet. 3. Drizzle with olive oil and sprinkle with thyme. 4. Roast in the oven for 30-40 minutes, or until vegetables are tender and golden brown. 5. Serve hot.",
+      "rating": 4.2
+    },
+    {
+      "recipe_name": "Beef Stroganoff",
+      "recipes_photo":"https://static.onecms.io/wp-content/uploads/sites/43/2022/09/09/25202beef-stroganoff-iii-ddmfs-3x4-233.jpg",
+      "ingredients": ["beef sirloin", "butter", "onions", "mushrooms", "sour cream", "egg noodles"],
+      "cooking_method": "1. Cook egg noodles according to package instructions. 2. Cut beef sirloin into thin strips. 3. Melt butter in a large skillet over medium heat. 4. Add onions and mushrooms and sauté until tender. 5. Add beef strips and cook until browned on all sides. 6. Stir in sour cream and cook for another 5 minutes. 7. Serve beef stroganoff over cooked egg noodles.",
+      "rating": 4.8
+    },
+    {
+      "recipe_name": "Tomato Soup",
+      "recipes_photo":"https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup-recipe.jpg",
+      "ingredients": ["tomatoes", "onion", "garlic", "vegetable broth", "cream", "basil"],
+      "cooking_method": "1. Preheat oven to 375°F. 2. Cut tomatoes and onion into wedges and place on a baking sheet. 3. Drizzle with olive oil and season with salt and pepper. 4. Roast in the oven for 30-40 minutes, or until tomatoes and onions are tender and lightly browned. 5. In a large pot, sauté garlic until fragrant. 6. Add roasted tomatoes and onions to the pot, along with vegetable broth. 7. Simmer for 10-15 minutes. 8. Blend soup mixture in a food processor until smooth. 9. Stir in cream and basil. 10. Serve hot.",
+      "rating": 4.4
+    }
+]
+    },
+    {
+      "id": 5,
+      "chef_name": "Nigella Lawson",
+      "years_of_experience": 20,
+      "num_of_recipes": 300,
+      "likes": 600000,
+      "chef_picture": "https://example.com/nigella.jpg",
+      "bio": "Nigella Lawson is a British chef, author, and television personality. She is known for her focus on indulgent and comforting recipes, as well as her witty and engaging on-screen persona. Nigella has written several bestselling cookbooks and has hosted several TV shows, including Nigella Bites and Nigella Feasts.",
+      "recipes":[ 
+       {    
+            "recipe_name": "Pesto Pasta",
+            "recipes_photo":"https://www.eatwell101.com/wp-content/uploads/2022/03/creamy-pesto-pasta-recipe-2.jpg" ,   
+            "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese", "olive oil"],
+           "cooking_method": "1. Cook pasta according to package instructions. 2. Blend together basil, garlic, pine nuts, parmesan cheese, and olive oil in a food processor until smooth. 3. Toss cooked pasta with pesto sauce and serve hot.",
+          "rating": 4.5
+        },
+    {
+      "recipe_name": "Grilled Chicken",
+      "recipes_photo":"https://leitesculinaria.com/wp-content/uploads/2015/06/whole-grilled-chicken-fp.jpg",
+      "ingredients": ["chicken breasts", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
+      "cooking_method": "1. Preheat grill to medium-high heat. 2. Combine olive oil, lemon juice, garlic, salt, and pepper in a small bowl. 3. Brush chicken breasts with marinade and place on grill. 4. Cook for 6-8 minutes on each side, or until chicken is cooked through. 5. Serve hot.",
+      "rating": 4.7
+    },
+    {
+      "recipe_name": "Roasted Vegetables",
+      "recipes_photo":"https://www.recipetineats.com/wp-content/uploads/2021/07/Roasted-Vegetables_55-SQ.jpg",
+      "ingredients": ["carrots", "potatoes", "bell peppers", "red onions", "olive oil", "thyme"],
+      "cooking_method": "1. Preheat oven to 400°F. 2. Cut vegetables into bite-sized pieces and place on a baking sheet. 3. Drizzle with olive oil and sprinkle with thyme. 4. Roast in the oven for 30-40 minutes, or until vegetables are tender and golden brown. 5. Serve hot.",
+      "rating": 4.2
+    },
+    {
+      "recipe_name": "Beef Stroganoff",
+      "recipes_photo":"https://static.onecms.io/wp-content/uploads/sites/43/2022/09/09/25202beef-stroganoff-iii-ddmfs-3x4-233.jpg",
+      "ingredients": ["beef sirloin", "butter", "onions", "mushrooms", "sour cream", "egg noodles"],
+      "cooking_method": "1. Cook egg noodles according to package instructions. 2. Cut beef sirloin into thin strips. 3. Melt butter in a large skillet over medium heat. 4. Add onions and mushrooms and sauté until tender. 5. Add beef strips and cook until browned on all sides. 6. Stir in sour cream and cook for another 5 minutes. 7. Serve beef stroganoff over cooked egg noodles.",
+      "rating": 4.8
+    },
+    {
+      "recipe_name": "Tomato Soup",
+      "recipes_photo":"https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup-recipe.jpg",
+      "ingredients": ["tomatoes", "onion", "garlic", "vegetable broth", "cream", "basil"],
+      "cooking_method": "1. Preheat oven to 375°F. 2. Cut tomatoes and onion into wedges and place on a baking sheet. 3. Drizzle with olive oil and season with salt and pepper. 4. Roast in the oven for 30-40 minutes, or until tomatoes and onions are tender and lightly browned. 5. In a large pot, sauté garlic until fragrant. 6. Add roasted tomatoes and onions to the pot, along with vegetable broth. 7. Simmer for 10-15 minutes. 8. Blend soup mixture in a food processor until smooth. 9. Stir in cream and basil. 10. Serve hot.",
+      "rating": 4.4
+    }
+]
+    },
+    {
+      "id": 6,
+      "chef_name": "Bobby Flay",
+      "years_of_experience": 25,
+      "num_of_recipes": 450,
+      "likes": 900000,
+      "chef_picture": "https://example.com/bobby.jpg",
+      "bio": "Bobby Flay is an American chef, restaurateur, and television personality. He is known for his focus on bold indulgent and comforting recipes, as well as her witty and engaging on-screen persona. Nigella has written several bestselling cookbooks and has hosted several TV shows, including Nigella Bites and Nigella Feasts.",
+      "recipes":[ 
+       {    
+            "recipe_name": "Pesto Pasta",
+            "recipes_photo":"https://www.eatwell101.com/wp-content/uploads/2022/03/creamy-pesto-pasta-recipe-2.jpg" ,   
+            "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese", "olive oil"],
+           "cooking_method": "1. Cook pasta according to package instructions. 2. Blend together basil, garlic, pine nuts, parmesan cheese, and olive oil in a food processor until smooth. 3. Toss cooked pasta with pesto sauce and serve hot.",
+          "rating": 4.5
+        },
+    {
+      "recipe_name": "Grilled Chicken",
+      "recipes_photo":"https://leitesculinaria.com/wp-content/uploads/2015/06/whole-grilled-chicken-fp.jpg",
+      "ingredients": ["chicken breasts", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
+      "cooking_method": "1. Preheat grill to medium-high heat. 2. Combine olive oil, lemon juice, garlic, salt, and pepper in a small bowl. 3. Brush chicken breasts with marinade and place on grill. 4. Cook for 6-8 minutes on each side, or until chicken is cooked through. 5. Serve hot.",
+      "rating": 4.7
+    },
+    {
+      "recipe_name": "Roasted Vegetables",
+      "recipes_photo":"https://www.recipetineats.com/wp-content/uploads/2021/07/Roasted-Vegetables_55-SQ.jpg",
+      "ingredients": ["carrots", "potatoes", "bell peppers", "red onions", "olive oil", "thyme"],
+      "cooking_method": "1. Preheat oven to 400°F. 2. Cut vegetables into bite-sized pieces and place on a baking sheet. 3. Drizzle with olive oil and sprinkle with thyme. 4. Roast in the oven for 30-40 minutes, or until vegetables are tender and golden brown. 5. Serve hot.",
+      "rating": 4.2
+    },
+    {
+      "recipe_name": "Beef Stroganoff",
+      "recipes_photo":"https://static.onecms.io/wp-content/uploads/sites/43/2022/09/09/25202beef-stroganoff-iii-ddmfs-3x4-233.jpg",
+      "ingredients": ["beef sirloin", "butter", "onions", "mushrooms", "sour cream", "egg noodles"],
+      "cooking_method": "1. Cook egg noodles according to package instructions. 2. Cut beef sirloin into thin strips. 3. Melt butter in a large skillet over medium heat. 4. Add onions and mushrooms and sauté until tender. 5. Add beef strips and cook until browned on all sides. 6. Stir in sour cream and cook for another 5 minutes. 7. Serve beef stroganoff over cooked egg noodles.",
+      "rating": 4.8
+    },
+    {
+      "recipe_name": "Tomato Soup",
+      "recipes_photo":"https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup-recipe.jpg",
+      "ingredients": ["tomatoes", "onion", "garlic", "vegetable broth", "cream", "basil"],
+      "cooking_method": "1. Preheat oven to 375°F. 2. Cut tomatoes and onion into wedges and place on a baking sheet. 3. Drizzle with olive oil and season with salt and pepper. 4. Roast in the oven for 30-40 minutes, or until tomatoes and onions are tender and lightly browned. 5. In a large pot, sauté garlic until fragrant. 6. Add roasted tomatoes and onions to the pot, along with vegetable broth. 7. Simmer for 10-15 minutes. 8. Blend soup mixture in a food processor until smooth. 9. Stir in cream and basil. 10. Serve hot.",
+      "rating": 4.4
+    }
+]
+    }
+
+]
