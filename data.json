@@ -1,14 +1,15 @@
 [
     {
       "id": 1,
-      "chef_name": "Giada De Laurentiis",
+      "chef_name":"Leong King Hung",
       "years_of_experience": 20,
       "num_of_recipes": 500,
       "likes": 1000000,
-      "chef_picture": "https://example.com/giada.jpg",
+      "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfa5SqSWVfpIMCMqyETVjY1C2LWZBYvgtOw&usqp=CAU",
       "bio": "Giada De Laurentiis is an Italian-American chef, television personality, and author. She is the host of several Food Network television programs, including Giada at Home. Giada has published several cookbooks and is known for her simple yet elegant approach to Italian cuisine.",
       "recipes":[ 
        {    
+            "id":1,
             "recipe_name": "Pesto Pasta",
             "recipes_photo":"https://www.eatwell101.com/wp-content/uploads/2022/03/creamy-pesto-pasta-recipe-2.jpg" ,   
             "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese", "olive oil"],
@@ -16,6 +17,7 @@
           "rating": 4.5
         },
     {
+        "id":2,
       "recipe_name": "Grilled Chicken",
       "recipes_photo":"https://leitesculinaria.com/wp-content/uploads/2015/06/whole-grilled-chicken-fp.jpg",
       "ingredients": ["chicken breasts", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
@@ -23,6 +25,7 @@
       "rating": 4.7
     },
     {
+        "id":3,
       "recipe_name": "Roasted Vegetables",
       "recipes_photo":"https://www.recipetineats.com/wp-content/uploads/2021/07/Roasted-Vegetables_55-SQ.jpg",
       "ingredients": ["carrots", "potatoes", "bell peppers", "red onions", "olive oil", "thyme"],
@@ -30,6 +33,7 @@
       "rating": 4.2
     },
     {
+        "id":4,
       "recipe_name": "Beef Stroganoff",
       "recipes_photo":"https://static.onecms.io/wp-content/uploads/sites/43/2022/09/09/25202beef-stroganoff-iii-ddmfs-3x4-233.jpg",
       "ingredients": ["beef sirloin", "butter", "onions", "mushrooms", "sour cream", "egg noodles"],
@@ -37,11 +41,34 @@
       "rating": 4.8
     },
     {
+        "id":5,
       "recipe_name": "Tomato Soup",
       "recipes_photo":"https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup-recipe.jpg",
       "ingredients": ["tomatoes", "onion", "garlic", "vegetable broth", "cream", "basil"],
       "cooking_method": "1. Preheat oven to 375°F. 2. Cut tomatoes and onion into wedges and place on a baking sheet. 3. Drizzle with olive oil and season with salt and pepper. 4. Roast in the oven for 30-40 minutes, or until tomatoes and onions are tender and lightly browned. 5. In a large pot, sauté garlic until fragrant. 6. Add roasted tomatoes and onions to the pot, along with vegetable broth. 7. Simmer for 10-15 minutes. 8. Blend soup mixture in a food processor until smooth. 9. Stir in cream and basil. 10. Serve hot.",
       "rating": 4.4
+    },
+    {
+        "id":6,
+        "recipe_name": "Kung Pao Chicken",
+        "recipes_photo":"https://rasamalaysia.com/wp-content/uploads/2019/03/kung-pao-chicken-thumb.jpg",
+        "ingredients": [
+            "boneless, skinless chicken breasts",
+            "cornstarch",
+            "soy sauce",
+            "rice wine",
+            "hoisin sauce",
+            "rice vinegar",
+            "sugar",
+            "sesame oil",
+            "dried red chili peppers",
+            "garlic",
+            "ginger",
+            "scallions",
+            "roasted peanuts"
+          ],
+          "cooking_method": "1. Cut the chicken into small cubes and marinate in a mixture of cornstarch, soy sauce, and rice wine.\n2. In a wok or large skillet, heat some oil over high heat and stir-fry the chicken until it is browned and cooked through. Remove from pan.\n3. In the same pan, add more oil if necessary and stir-fry the chili peppers, garlic, ginger, and scallions for a minute or two.\n4. Add the hoisin sauce, rice vinegar, sugar, and sesame oil to the pan, stirring to combine.\n5. Add the chicken back to the pan and stir-fry everything together for another minute or two.\n6. Add the roasted peanuts and stir to combine. Serve hot with rice.",
+       "rating": 4.5 
     }
 ]
   
@@ -52,10 +79,11 @@
       "years_of_experience": 30,
       "num_of_recipes": 600,
       "likes": 2000000,
-      "chef_picture": "https://example.com/gordon.jpg",
+      "chef_picture": "https://media-cdn.tripadvisor.com/media/photo-s/0f/f3/fd/37/summer-palace.jpg",
       "bio": "Gordon Ramsay is a British chef, restaurateur, and television personality. He is known for his fiery personality and has hosted several reality TV shows, including Hell's Kitchen and MasterChef. Ramsay has received numerous Michelin stars for his restaurants and is considered one of the best chefs in the world.",
       "recipes":[ 
        {    
+        "id":1,
             "recipe_name": "Pesto Pasta",
             "recipes_photo":"https://www.eatwell101.com/wp-content/uploads/2022/03/creamy-pesto-pasta-recipe-2.jpg" ,   
             "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese", "olive oil"],
@@ -63,6 +91,7 @@
           "rating": 4.5
         },
     {
+        "id":2,
       "recipe_name": "Grilled Chicken",
       "recipes_photo":"https://leitesculinaria.com/wp-content/uploads/2015/06/whole-grilled-chicken-fp.jpg",
       "ingredients": ["chicken breasts", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
@@ -70,6 +99,7 @@
       "rating": 4.7
     },
     {
+        "id":3,
       "recipe_name": "Roasted Vegetables",
       "recipes_photo":"https://www.recipetineats.com/wp-content/uploads/2021/07/Roasted-Vegetables_55-SQ.jpg",
       "ingredients": ["carrots", "potatoes", "bell peppers", "red onions", "olive oil", "thyme"],
@@ -77,6 +107,7 @@
       "rating": 4.2
     },
     {
+        "id":4,
       "recipe_name": "Beef Stroganoff",
       "recipes_photo":"https://static.onecms.io/wp-content/uploads/sites/43/2022/09/09/25202beef-stroganoff-iii-ddmfs-3x4-233.jpg",
       "ingredients": ["beef sirloin", "butter", "onions", "mushrooms", "sour cream", "egg noodles"],
@@ -84,24 +115,48 @@
       "rating": 4.8
     },
     {
+        "id":5,
       "recipe_name": "Tomato Soup",
       "recipes_photo":"https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup-recipe.jpg",
       "ingredients": ["tomatoes", "onion", "garlic", "vegetable broth", "cream", "basil"],
       "cooking_method": "1. Preheat oven to 375°F. 2. Cut tomatoes and onion into wedges and place on a baking sheet. 3. Drizzle with olive oil and season with salt and pepper. 4. Roast in the oven for 30-40 minutes, or until tomatoes and onions are tender and lightly browned. 5. In a large pot, sauté garlic until fragrant. 6. Add roasted tomatoes and onions to the pot, along with vegetable broth. 7. Simmer for 10-15 minutes. 8. Blend soup mixture in a food processor until smooth. 9. Stir in cream and basil. 10. Serve hot.",
       "rating": 4.4
+    },
+    {
+        "id":6,
+        "recipe_name": "Kung Pao Chicken",
+        "recipes_photo":"https://rasamalaysia.com/wp-content/uploads/2019/03/kung-pao-chicken-thumb.jpg",
+        "ingredients": [
+            "boneless, skinless chicken breasts",
+            "cornstarch",
+            "soy sauce",
+            "rice wine",
+            "hoisin sauce",
+            "rice vinegar",
+            "sugar",
+            "sesame oil",
+            "dried red chili peppers",
+            "garlic",
+            "ginger",
+            "scallions",
+            "roasted peanuts"
+          ],
+          "cooking_method": "1. Cut the chicken into small cubes and marinate in a mixture of cornstarch, soy sauce, and rice wine.\n2. In a wok or large skillet, heat some oil over high heat and stir-fry the chicken until it is browned and cooked through. Remove from pan.\n3. In the same pan, add more oil if necessary and stir-fry the chili peppers, garlic, ginger, and scallions for a minute or two.\n4. Add the hoisin sauce, rice vinegar, sugar, and sesame oil to the pan, stirring to combine.\n5. Add the chicken back to the pan and stir-fry everything together for another minute or two.\n6. Add the roasted peanuts and stir to combine. Serve hot with rice.",
+       "rating": 4.5 
     }
 ]
     },
     {
       "id": 3,
-      "chef_name": "Ina Garten",
+      "chef_name": "Chef John",
       "years_of_experience": 25,
       "num_of_recipes": 400,
       "likes": 800000,
-      "chef_picture": "https://example.com/ina.jpg",
+      "chef_picture": "https://cdn.shopify.com/s/files/1/0555/4231/7246/files/1280-x-1000_6e1a4ddb-9b58-45a7-aa1e-c0897e5e27f5_1024x1024.jpg?v=1617571946",
       "bio": "Ina Garten is an American chef, author, and television personality. She is best known for her Food Network show Barefoot Contessa, which focuses on simple and elegant recipes. Ina has written several cookbooks and is known for her use of fresh, high-quality ingredients.",
       "recipes":[ 
        {    
+        "id":1,
             "recipe_name": "Pesto Pasta",
             "recipes_photo":"https://www.eatwell101.com/wp-content/uploads/2022/03/creamy-pesto-pasta-recipe-2.jpg" ,   
             "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese", "olive oil"],
@@ -109,6 +164,7 @@
           "rating": 4.5
         },
     {
+        "id":2,
       "recipe_name": "Grilled Chicken",
       "recipes_photo":"https://leitesculinaria.com/wp-content/uploads/2015/06/whole-grilled-chicken-fp.jpg",
       "ingredients": ["chicken breasts", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
@@ -116,6 +172,7 @@
       "rating": 4.7
     },
     {
+        "id":3,
       "recipe_name": "Roasted Vegetables",
       "recipes_photo":"https://www.recipetineats.com/wp-content/uploads/2021/07/Roasted-Vegetables_55-SQ.jpg",
       "ingredients": ["carrots", "potatoes", "bell peppers", "red onions", "olive oil", "thyme"],
@@ -123,6 +180,7 @@
       "rating": 4.2
     },
     {
+        "id":4,
       "recipe_name": "Beef Stroganoff",
       "recipes_photo":"https://static.onecms.io/wp-content/uploads/sites/43/2022/09/09/25202beef-stroganoff-iii-ddmfs-3x4-233.jpg",
       "ingredients": ["beef sirloin", "butter", "onions", "mushrooms", "sour cream", "egg noodles"],
@@ -130,24 +188,49 @@
       "rating": 4.8
     },
     {
+        "id":5,
       "recipe_name": "Tomato Soup",
       "recipes_photo":"https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup-recipe.jpg",
       "ingredients": ["tomatoes", "onion", "garlic", "vegetable broth", "cream", "basil"],
       "cooking_method": "1. Preheat oven to 375°F. 2. Cut tomatoes and onion into wedges and place on a baking sheet. 3. Drizzle with olive oil and season with salt and pepper. 4. Roast in the oven for 30-40 minutes, or until tomatoes and onions are tender and lightly browned. 5. In a large pot, sauté garlic until fragrant. 6. Add roasted tomatoes and onions to the pot, along with vegetable broth. 7. Simmer for 10-15 minutes. 8. Blend soup mixture in a food processor until smooth. 9. Stir in cream and basil. 10. Serve hot.",
       "rating": 4.4
+    },
+    {
+        "id":6,
+        "recipe_name": "Kung Pao Chicken",
+        "recipes_photo":"https://rasamalaysia.com/wp-content/uploads/2019/03/kung-pao-chicken-thumb.jpg",
+        "ingredients": [
+            "boneless, skinless chicken breasts",
+            "cornstarch",
+            "soy sauce",
+            "rice wine",
+            "hoisin sauce",
+            "rice vinegar",
+            "sugar",
+            "sesame oil",
+            "dried red chili peppers",
+            "garlic",
+            "ginger",
+            "scallions",
+            "roasted peanuts"
+          ],
+          "cooking_method": "1. Cut the chicken into small cubes and marinate in a mixture of cornstarch, soy sauce, and rice wine.\n2. In a wok or large skillet, heat some oil over high heat and stir-fry the chicken until it is browned and cooked through. Remove from pan.\n3. In the same pan, add more oil if necessary and stir-fry the chili peppers, garlic, ginger, and scallions for a minute or two.\n4. Add the hoisin sauce, rice vinegar, sugar, and sesame oil to the pan, stirring to combine.\n5. Add the chicken back to the pan and stir-fry everything together for another minute or two.\n6. Add the roasted peanuts and stir to combine. Serve hot with rice.",
+       "rating": 4.5 
     }
 ]
     },
     {
+        
       "id": 4,
-      "chef_name": "Jamie Oliver",
+      "chef_name": "Martin Yan",
       "years_of_experience": 25,
       "num_of_recipes": 700,
       "likes": 1500000,
-      "chef_picture": "https://example.com/jamie.jpg",
+      "chef_picture": "https://www.reviewjournal.com/wp-content/uploads/2023/02/17488478_web1_web_M.Y.-Asia_Martin-Yan-Dishes.jpg?crop=1",
       "bio": "Jamie Oliver is a British chef, restaurateur, and television personality. He is known for his focus on healthy, simple, and affordable food. Jamie has hosted several TV shows, including The Naked Chef and Jamie Oliver's Food Revolution. He is also a bestselling cookbook author and has campaigned for better food education in schools.",
       "recipes":[ 
        {    
+        "id":1,
             "recipe_name": "Pesto Pasta",
             "recipes_photo":"https://www.eatwell101.com/wp-content/uploads/2022/03/creamy-pesto-pasta-recipe-2.jpg" ,   
             "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese", "olive oil"],
@@ -155,6 +238,7 @@
           "rating": 4.5
         },
     {
+        "id":2,
       "recipe_name": "Grilled Chicken",
       "recipes_photo":"https://leitesculinaria.com/wp-content/uploads/2015/06/whole-grilled-chicken-fp.jpg",
       "ingredients": ["chicken breasts", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
@@ -162,6 +246,7 @@
       "rating": 4.7
     },
     {
+        "id":3,
       "recipe_name": "Roasted Vegetables",
       "recipes_photo":"https://www.recipetineats.com/wp-content/uploads/2021/07/Roasted-Vegetables_55-SQ.jpg",
       "ingredients": ["carrots", "potatoes", "bell peppers", "red onions", "olive oil", "thyme"],
@@ -169,6 +254,7 @@
       "rating": 4.2
     },
     {
+        "id":4,
       "recipe_name": "Beef Stroganoff",
       "recipes_photo":"https://static.onecms.io/wp-content/uploads/sites/43/2022/09/09/25202beef-stroganoff-iii-ddmfs-3x4-233.jpg",
       "ingredients": ["beef sirloin", "butter", "onions", "mushrooms", "sour cream", "egg noodles"],
@@ -176,11 +262,34 @@
       "rating": 4.8
     },
     {
+        "id":5,
       "recipe_name": "Tomato Soup",
       "recipes_photo":"https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup-recipe.jpg",
       "ingredients": ["tomatoes", "onion", "garlic", "vegetable broth", "cream", "basil"],
       "cooking_method": "1. Preheat oven to 375°F. 2. Cut tomatoes and onion into wedges and place on a baking sheet. 3. Drizzle with olive oil and season with salt and pepper. 4. Roast in the oven for 30-40 minutes, or until tomatoes and onions are tender and lightly browned. 5. In a large pot, sauté garlic until fragrant. 6. Add roasted tomatoes and onions to the pot, along with vegetable broth. 7. Simmer for 10-15 minutes. 8. Blend soup mixture in a food processor until smooth. 9. Stir in cream and basil. 10. Serve hot.",
       "rating": 4.4
+    },
+    {
+        "id":6,
+        "recipe_name": "Kung Pao Chicken",
+        "recipes_photo":"https://rasamalaysia.com/wp-content/uploads/2019/03/kung-pao-chicken-thumb.jpg",
+        "ingredients": [
+            "boneless, skinless chicken breasts",
+            "cornstarch",
+            "soy sauce",
+            "rice wine",
+            "hoisin sauce",
+            "rice vinegar",
+            "sugar",
+            "sesame oil",
+            "dried red chili peppers",
+            "garlic",
+            "ginger",
+            "scallions",
+            "roasted peanuts"
+          ],
+          "cooking_method": "1. Cut the chicken into small cubes and marinate in a mixture of cornstarch, soy sauce, and rice wine.\n2. In a wok or large skillet, heat some oil over high heat and stir-fry the chicken until it is browned and cooked through. Remove from pan.\n3. In the same pan, add more oil if necessary and stir-fry the chili peppers, garlic, ginger, and scallions for a minute or two.\n4. Add the hoisin sauce, rice vinegar, sugar, and sesame oil to the pan, stirring to combine.\n5. Add the chicken back to the pan and stir-fry everything together for another minute or two.\n6. Add the roasted peanuts and stir to combine. Serve hot with rice.",
+       "rating": 4.5 
     }
 ]
     },
@@ -190,10 +299,11 @@
       "years_of_experience": 20,
       "num_of_recipes": 300,
       "likes": 600000,
-      "chef_picture": "https://example.com/nigella.jpg",
+      "chef_picture": "https://thumbs.dreamstime.com/b/young-asian-chef-posing-16325665.jpg",
       "bio": "Nigella Lawson is a British chef, author, and television personality. She is known for her focus on indulgent and comforting recipes, as well as her witty and engaging on-screen persona. Nigella has written several bestselling cookbooks and has hosted several TV shows, including Nigella Bites and Nigella Feasts.",
       "recipes":[ 
        {    
+        "id":1,
             "recipe_name": "Pesto Pasta",
             "recipes_photo":"https://www.eatwell101.com/wp-content/uploads/2022/03/creamy-pesto-pasta-recipe-2.jpg" ,   
             "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese", "olive oil"],
@@ -201,6 +311,7 @@
           "rating": 4.5
         },
     {
+        "id":2,
       "recipe_name": "Grilled Chicken",
       "recipes_photo":"https://leitesculinaria.com/wp-content/uploads/2015/06/whole-grilled-chicken-fp.jpg",
       "ingredients": ["chicken breasts", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
@@ -208,6 +319,7 @@
       "rating": 4.7
     },
     {
+        "id":3,
       "recipe_name": "Roasted Vegetables",
       "recipes_photo":"https://www.recipetineats.com/wp-content/uploads/2021/07/Roasted-Vegetables_55-SQ.jpg",
       "ingredients": ["carrots", "potatoes", "bell peppers", "red onions", "olive oil", "thyme"],
@@ -215,6 +327,7 @@
       "rating": 4.2
     },
     {
+        "id":4,
       "recipe_name": "Beef Stroganoff",
       "recipes_photo":"https://static.onecms.io/wp-content/uploads/sites/43/2022/09/09/25202beef-stroganoff-iii-ddmfs-3x4-233.jpg",
       "ingredients": ["beef sirloin", "butter", "onions", "mushrooms", "sour cream", "egg noodles"],
@@ -222,11 +335,34 @@
       "rating": 4.8
     },
     {
+        "id":5,
       "recipe_name": "Tomato Soup",
       "recipes_photo":"https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup-recipe.jpg",
       "ingredients": ["tomatoes", "onion", "garlic", "vegetable broth", "cream", "basil"],
       "cooking_method": "1. Preheat oven to 375°F. 2. Cut tomatoes and onion into wedges and place on a baking sheet. 3. Drizzle with olive oil and season with salt and pepper. 4. Roast in the oven for 30-40 minutes, or until tomatoes and onions are tender and lightly browned. 5. In a large pot, sauté garlic until fragrant. 6. Add roasted tomatoes and onions to the pot, along with vegetable broth. 7. Simmer for 10-15 minutes. 8. Blend soup mixture in a food processor until smooth. 9. Stir in cream and basil. 10. Serve hot.",
       "rating": 4.4
+    },
+    {
+        "id":6,
+        "recipe_name": "Kung Pao Chicken",
+        "recipes_photo":"https://rasamalaysia.com/wp-content/uploads/2019/03/kung-pao-chicken-thumb.jpg",
+        "ingredients": [
+            "boneless, skinless chicken breasts",
+            "cornstarch",
+            "soy sauce",
+            "rice wine",
+            "hoisin sauce",
+            "rice vinegar",
+            "sugar",
+            "sesame oil",
+            "dried red chili peppers",
+            "garlic",
+            "ginger",
+            "scallions",
+            "roasted peanuts"
+          ],
+          "cooking_method": "1. Cut the chicken into small cubes and marinate in a mixture of cornstarch, soy sauce, and rice wine.\n2. In a wok or large skillet, heat some oil over high heat and stir-fry the chicken until it is browned and cooked through. Remove from pan.\n3. In the same pan, add more oil if necessary and stir-fry the chili peppers, garlic, ginger, and scallions for a minute or two.\n4. Add the hoisin sauce, rice vinegar, sugar, and sesame oil to the pan, stirring to combine.\n5. Add the chicken back to the pan and stir-fry everything together for another minute or two.\n6. Add the roasted peanuts and stir to combine. Serve hot with rice.",
+       "rating": 4.5 
     }
 ]
     },
@@ -236,10 +372,11 @@
       "years_of_experience": 25,
       "num_of_recipes": 450,
       "likes": 900000,
-      "chef_picture": "https://example.com/bobby.jpg",
+      "chef_picture": "https://www.liyenkl.com/resourcefiles/offer-page-snippet-images/chinese-chef-alex-the-ritz-carlton-li-yen-kuala-lumpur.jpg",
       "bio": "Bobby Flay is an American chef, restaurateur, and television personality. He is known for his focus on bold indulgent and comforting recipes, as well as her witty and engaging on-screen persona. Nigella has written several bestselling cookbooks and has hosted several TV shows, including Nigella Bites and Nigella Feasts.",
       "recipes":[ 
        {    
+        "id":1,
             "recipe_name": "Pesto Pasta",
             "recipes_photo":"https://www.eatwell101.com/wp-content/uploads/2022/03/creamy-pesto-pasta-recipe-2.jpg" ,   
             "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese", "olive oil"],
@@ -247,6 +384,7 @@
           "rating": 4.5
         },
     {
+        "id":2,
       "recipe_name": "Grilled Chicken",
       "recipes_photo":"https://leitesculinaria.com/wp-content/uploads/2015/06/whole-grilled-chicken-fp.jpg",
       "ingredients": ["chicken breasts", "olive oil", "lemon juice", "garlic", "salt", "pepper"],
@@ -254,6 +392,7 @@
       "rating": 4.7
     },
     {
+        "id":3,
       "recipe_name": "Roasted Vegetables",
       "recipes_photo":"https://www.recipetineats.com/wp-content/uploads/2021/07/Roasted-Vegetables_55-SQ.jpg",
       "ingredients": ["carrots", "potatoes", "bell peppers", "red onions", "olive oil", "thyme"],
@@ -261,6 +400,7 @@
       "rating": 4.2
     },
     {
+        "id":4,
       "recipe_name": "Beef Stroganoff",
       "recipes_photo":"https://static.onecms.io/wp-content/uploads/sites/43/2022/09/09/25202beef-stroganoff-iii-ddmfs-3x4-233.jpg",
       "ingredients": ["beef sirloin", "butter", "onions", "mushrooms", "sour cream", "egg noodles"],
@@ -268,11 +408,34 @@
       "rating": 4.8
     },
     {
+        "id":5,
       "recipe_name": "Tomato Soup",
       "recipes_photo":"https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup-recipe.jpg",
       "ingredients": ["tomatoes", "onion", "garlic", "vegetable broth", "cream", "basil"],
       "cooking_method": "1. Preheat oven to 375°F. 2. Cut tomatoes and onion into wedges and place on a baking sheet. 3. Drizzle with olive oil and season with salt and pepper. 4. Roast in the oven for 30-40 minutes, or until tomatoes and onions are tender and lightly browned. 5. In a large pot, sauté garlic until fragrant. 6. Add roasted tomatoes and onions to the pot, along with vegetable broth. 7. Simmer for 10-15 minutes. 8. Blend soup mixture in a food processor until smooth. 9. Stir in cream and basil. 10. Serve hot.",
       "rating": 4.4
+    },
+    {
+        "id":6,
+        "recipe_name": "Kung Pao Chicken",
+        "recipes_photo":"https://rasamalaysia.com/wp-content/uploads/2019/03/kung-pao-chicken-thumb.jpg",
+        "ingredients": [
+            "boneless, skinless chicken breasts",
+            "cornstarch",
+            "soy sauce",
+            "rice wine",
+            "hoisin sauce",
+            "rice vinegar",
+            "sugar",
+            "sesame oil",
+            "dried red chili peppers",
+            "garlic",
+            "ginger",
+            "scallions",
+            "roasted peanuts"
+          ],
+          "cooking_method": "1. Cut the chicken into small cubes and marinate in a mixture of cornstarch, soy sauce, and rice wine.\n2. In a wok or large skillet, heat some oil over high heat and stir-fry the chicken until it is browned and cooked through. Remove from pan.\n3. In the same pan, add more oil if necessary and stir-fry the chili peppers, garlic, ginger, and scallions for a minute or two.\n4. Add the hoisin sauce, rice vinegar, sugar, and sesame oil to the pan, stirring to combine.\n5. Add the chicken back to the pan and stir-fry everything together for another minute or two.\n6. Add the roasted peanuts and stir to combine. Serve hot with rice.",
+       "rating": 4.5 
     }
 ]
     }
