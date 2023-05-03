@@ -7,9 +7,14 @@ app.get('/',(req, res)=>{
     res.send('Server is running on the vercel.....');
 })
 const chefData=require("./data.json");
+const recipesData=require("./recipe.json");
 const port=5000;
 app.get("/allChefData", (req, res)=>{
     res.send(chefData);
+})
+
+app.get("/recipeData", (req, res)=>{
+    res.send(recipesData);
 })
 
 app.get("/allChefData/:id",(req, res)=>{

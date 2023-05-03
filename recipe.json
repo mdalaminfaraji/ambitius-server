@@ -1,0 +1,44 @@
+[
+    {    
+            "id":1,
+            "recipe_name": "Kung Pao Chicken",
+            "recipes_photo":"https://khinskitchen.com/wp-content/uploads/2022/03/kung-pao-chicken-06.jpg" ,   
+            "rating": 4.5,
+            "description":"Spicy stir-fried chicken with peanuts and vegetables"
+    },
+    {    
+            "id":2,
+            "recipe_name": "Fried Rice",
+            "recipes_photo":"https://www.savoryexperiments.com/wp-content/uploads/2022/11/Fried-Rice-9-500x500.jpg" ,   
+            "rating": 4.5,
+            "description":"A staple Chinese dish made with rice, eggs, vegetables, and meat"
+    },
+    {    
+            "id":3,
+            "recipe_name": "Dumplings",
+            "recipes_photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Xiaolongbao-breakfast.jpg/1200px-Xiaolongbao-breakfast.jpg" ,   
+            "rating": 4.5,
+            "description":"Small pockets of dough filled with meat or vegetables, usually steamed or fried"
+    },
+    {    
+            "id":4,
+            "recipe_name": "Ma Po Tofu",
+            "recipes_photo":"https://www.cookerru.com/wp-content/uploads/2022/06/mapo-tofu-recipe-preview-feature.jpg" ,   
+            "rating": 4.5,
+            "description":"Spicy and aromatic dish made with tofu, minced meat, and chili oil"
+    },
+    {    
+            "id":5,
+            "recipe_name": "Egg Rolls",
+            "recipes_photo":"https://twoplaidaprons.com/wp-content/uploads/2022/08/Vietnamese-egg-rolls-on-plate-stacked-thumbnail.jpg" ,   
+            "rating": 4.5,
+            "description":"Crispy fried rolls filled with vegetables, meat, and sometimes noodles"
+    },
+    {    
+            "id":6,
+            "recipe_name": "Pesto Pasta",
+            "recipes_photo":"https://www.eatwell101.com/wp-content/uploads/2022/03/creamy-pesto-pasta-recipe-2.jpg" ,   
+            "rating": 4.5,
+            "description":"Deep-fried pork pieces with a sweet and tangy sauce"
+    }
+]

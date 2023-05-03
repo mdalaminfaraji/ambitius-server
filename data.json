@@ -10,8 +10,8 @@
       "recipes":[ 
        {    
             "id":1,
-            "recipe_name": "Pesto Pasta",
-            "recipes_photo":"https://www.eatwell101.com/wp-content/uploads/2022/03/creamy-pesto-pasta-recipe-2.jpg" ,   
+            "recipe_name": "Dumplings",
+            "recipes_photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Xiaolongbao-breakfast.jpg/1200px-Xiaolongbao-breakfast.jpg" ,   
             "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese", "olive oil"],
            "cooking_method": "1. Cook pasta according to package instructions. 2. Blend together basil, garlic, pine nuts, parmesan cheese, and olive oil in a food processor until smooth. 3. Toss cooked pasta with pesto sauce and serve hot.",
           "rating": 4.5
@@ -26,8 +26,8 @@
     },
     {
         "id":3,
-      "recipe_name": "Roasted Vegetables",
-      "recipes_photo":"https://www.recipetineats.com/wp-content/uploads/2021/07/Roasted-Vegetables_55-SQ.jpg",
+      "recipe_name": "Ma Po Tofu",
+      "recipes_photo":"https://www.cookerru.com/wp-content/uploads/2022/06/mapo-tofu-recipe-preview-feature.jpg",
       "ingredients": ["carrots", "potatoes", "bell peppers", "red onions", "olive oil", "thyme"],
       "cooking_method": "1. Preheat oven to 400°F. 2. Cut vegetables into bite-sized pieces and place on a baking sheet. 3. Drizzle with olive oil and sprinkle with thyme. 4. Roast in the oven for 30-40 minutes, or until vegetables are tender and golden brown. 5. Serve hot.",
       "rating": 4.2
@@ -50,8 +50,8 @@
     },
     {
         "id":6,
-        "recipe_name": "Kung Pao Chicken",
-        "recipes_photo":"https://rasamalaysia.com/wp-content/uploads/2019/03/kung-pao-chicken-thumb.jpg",
+        "recipe_name": "Egg Rolls",
+        "recipes_photo":"https://twoplaidaprons.com/wp-content/uploads/2022/08/Vietnamese-egg-rolls-on-plate-stacked-thumbnail.jpg",
         "ingredients": [
             "boneless, skinless chicken breasts",
             "cornstarch",
@@ -299,7 +299,7 @@
       "years_of_experience": 20,
       "num_of_recipes": 300,
       "likes": 600000,
-      "chef_picture": "https://thumbs.dreamstime.com/b/young-asian-chef-posing-16325665.jpg",
+      "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD8quE_vSzAsyGlHBWtndMwe7V0pGYRJ2N-w&usqp=CAU",
       "bio": "Nigella Lawson is a British chef, author, and television personality. She is known for her focus on indulgent and comforting recipes, as well as her witty and engaging on-screen persona. Nigella has written several bestselling cookbooks and has hosted several TV shows, including Nigella Bites and Nigella Feasts.",
       "recipes":[ 
        {    
